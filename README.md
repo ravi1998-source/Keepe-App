@@ -1,4 +1,4 @@
-# Keepe-App
+# Keeper-App
 An app that can be used to make a todo list where elements can be added and removed. Challenge made by The Complete 2020 Web Development Bootcamp by Angela Yu.
 
 ## Project
