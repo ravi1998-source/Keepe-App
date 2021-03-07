@@ -4,7 +4,7 @@ An app that can be used to make a todo list where elements can be added and remo
 ## Project
 
 [Project](https://codesandbox.io/s/using-pre-built-react-components-completed-forked-cr7c9?file=/src/index.js)
-![Alt text](https://github.com/ravi1998-source/BootStrap/blob/main/Cover%20page.png)
+![Alt text]https://github.com/ravi1998-source/Keepe-App/blob/main/Rename.pdf)
 
 
 ## Built With
